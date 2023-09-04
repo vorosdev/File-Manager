@@ -67,7 +67,7 @@ java FileManager
 ```
 ---
 <p align="center">
-  <a href="https://github.com/vorosdev/qtile/blob/main/LICENSE">
-    <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GPL-3.0&colorA=1e1e2e&colorB=b4befe"/>
+  <a href="https://github.com/vorosdev/File-Manager/blob/Main/LICENSE">
+    <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=1e1e2e&colorB=b4befe"/>
   </a>
 </p>
